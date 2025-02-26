@@ -1,1 +1,1 @@
-cl /LD hook.cpp
+cl /LD inject.cpp
